@@ -1,0 +1,4 @@
+1001 Shatabdi Delhi Bhopal 120
+1002 Rajdhani Mumbai Delhi 150
+1003 Duronto Kolkata Chennai 110
+1004 Vande Hyderabad Bangalore 150 
